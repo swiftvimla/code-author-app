@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA4D4173-ED47-4D8D-AD72-BAECA77CE298"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26CC3C1A-8C8B-4A7D-8157-C1D1DAA030E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "init(within:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26CC3C1A-8C8B-4A7D-8157-C1D1DAA030E4 - e788422fc5344b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vimla_code_author_app.SearchProjects.searchResults.getter : Swift.Array&lt;Foundation.URL&gt;"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "26CC3C1A-8C8B-4A7D-8157-C1D1DAA030E4 - c727588560275b70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; Swift.Bool in vimla_code_author_app.SearchProjects.searchResults.getter : Swift.Array&lt;Foundation.URL&gt;"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50115A58-A4B4-466E-B7F3-820AE9663264"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BF10D16-E206-4AA2-86CD-776955D6FFC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFC0FA2D-7129-4268-92ED-C07D2938A391"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CF58DC7-5D88-41DE-92B0-0C8400743376"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D3A2526-C100-4B4D-A1AC-3D0021565D17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F6C3FAD-1F8A-4FD1-860F-F713A0565BE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3F6C3FAD-1F8A-4FD1-860F-F713A0565BE8 - e519ffd07acd4881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vimla_code_author_app.openProjectSearch() -&gt; __C.NSWindow"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/Source/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "429">
+               </Location>
+               <Location
+                  uuid = "3F6C3FAD-1F8A-4FD1-860F-F713A0565BE8 - c2ed1a8b7761895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in vimla_code_author_app.openProjectSearch() -&gt; __C.NSWindow"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/Source/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30B5BE8F-9132-45B8-A300-6F1C97F3D424"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "30B5BE8F-9132-45B8-A300-6F1C97F3D424 - e519ffd07acd4881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vimla_code_author_app.openProjectSearch() -&gt; __C.NSWindow"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/Source/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "429">
+               </Location>
+               <Location
+                  uuid = "30B5BE8F-9132-45B8-A300-6F1C97F3D424 - c2ed1a8b7761895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in vimla_code_author_app.openProjectSearch() -&gt; __C.NSWindow"
+                  moduleName = "vimla-code-author-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatan/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/kuliga%20kodprojekt/vimla-code-author-app/vimla-code-author-app/Source/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2D6DC84-18BD-4797-B6F2-500F50EBD825"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11EC2778-A07F-4595-8915-27CA245E1AEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "openProjectSearch(close:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9256539A-219C-4993-B50C-462C49DC6B88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/Project.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadProjects(from:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56F232E8-FC27-4F7C-9541-FFFC0A6DD56F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vimla-code-author-app/Source/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "_body(configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
