@@ -387,6 +387,7 @@
 		8E83706C235BAFFD00BD318B /* GT-Walsheim-Regular-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GT-Walsheim-Regular-Oblique.ttf"; sourceTree = "<group>"; };
 		8E83706D235BAFFD00BD318B /* GT-Walsheim-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GT-Walsheim-Regular.ttf"; sourceTree = "<group>"; };
 		8E83706E235BAFFD00BD318B /* GT-Walsheim-Bold-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GT-Walsheim-Bold-Oblique.ttf"; sourceTree = "<group>"; };
+		8EB33E01265EFF960095B87B /* code-author-app.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = "code-author-app.sketch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -750,6 +751,7 @@
 		8E83701F235A2ED200BD318B /* Product Documents */ = {
 			isa = PBXGroup;
 			children = (
+				8EB33E01265EFF960095B87B /* code-author-app.sketch */,
 				8E837020235A2EEC00BD318B /* Specification.md */,
 				8E837021235A2EF400BD318B /* README.md */,
 			);
