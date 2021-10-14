@@ -12,6 +12,7 @@ struct Project {
     let root: URL
     let label: String
     let activeBranch: String?
+    let remoteUrl: URL?
 }
 
 extension Project: Identifiable, Hashable {
@@ -28,7 +29,8 @@ func loadProjects(from directory: URL) -> [Project]? {
         return Project(
             root: url,
             label: url.lastPathComponent,
-            activeBranch: activeBranch
+            activeBranch: activeBranch,
+            remoteUrl: URL(string: "")
         )
     }
 }

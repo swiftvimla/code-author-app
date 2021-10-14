@@ -20,9 +20,10 @@ func openProjectSearch(close: @escaping () -> Void) -> NSWindow {
   window.contentView = NSHostingView(rootView: contentView)
   window.center()
   window.isReleasedWhenClosed = false // TODO: App crashes on second call to this function (not during the call but after) without this line, but ideally we _should_ release the window when it's closed.
-  window.setFrameAutosaveName("Main Window")
+  window.setFrameAutosaveName("Search Projects - Vimla Code Author")
   window.makeKeyAndOrderFront(nil)
   window.styleMask = .borderless
+  NSApplication.shared.activate(ignoringOtherApps: true) // This places the window on top of all other windows so that we can see it immediately.
 
   return window
 }

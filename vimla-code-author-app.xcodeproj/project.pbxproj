@@ -14,6 +14,7 @@
 		8E43311924F48187003E17D6 /* SSH.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43311824F48187003E17D6 /* SSH.swift */; };
 		8E43311B24F4818E003E17D6 /* Docker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43311A24F4818E003E17D6 /* Docker.swift */; };
 		8E43311D24F8698E003E17D6 /* Oracle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43311C24F8698E003E17D6 /* Oracle.swift */; };
+		8E43BDD027146E1900C0559C /* Notify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43BDCF27146E1900C0559C /* Notify.swift */; };
 		8E6D4334236E564F00AE101B /* InputMonoNarrow-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E6D427E236E564F00AE101B /* InputMonoNarrow-BoldItalic.ttf */; };
 		8E6D4335236E564F00AE101B /* InputMonoNarrow-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E6D427F236E564F00AE101B /* InputMonoNarrow-ThinItalic.ttf */; };
 		8E6D4336236E564F00AE101B /* InputMonoNarrow-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E6D4280236E564F00AE101B /* InputMonoNarrow-ExtraLight.ttf */; };
@@ -203,6 +204,7 @@
 		8E43311824F48187003E17D6 /* SSH.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSH.swift; sourceTree = "<group>"; };
 		8E43311A24F4818E003E17D6 /* Docker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Docker.swift; sourceTree = "<group>"; };
 		8E43311C24F8698E003E17D6 /* Oracle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oracle.swift; sourceTree = "<group>"; };
+		8E43BDCF27146E1900C0559C /* Notify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notify.swift; sourceTree = "<group>"; };
 		8E4A8D68263F23AF001A68F4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8E6D427E236E564F00AE101B /* InputMonoNarrow-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InputMonoNarrow-BoldItalic.ttf"; sourceTree = "<group>"; };
 		8E6D427F236E564F00AE101B /* InputMonoNarrow-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InputMonoNarrow-ThinItalic.ttf"; sourceTree = "<group>"; };
@@ -712,6 +714,7 @@
 		8E837000235A29CE00BD318B = {
 			isa = PBXGroup;
 			children = (
+				8E43BDCF27146E1900C0559C /* Notify.swift */,
 				8E83700B235A29CE00BD318B /* vimla-code-author-app */,
 				8E83700A235A29CE00BD318B /* Products */,
 			);
@@ -1070,6 +1073,7 @@
 				8E43311324F48120003E17D6 /* Configure.swift in Sources */,
 				8E43311124F48103003E17D6 /* Core.swift in Sources */,
 				8E83700F235A29CE00BD318B /* ContentView.swift in Sources */,
+				8E43BDD027146E1900C0559C /* Notify.swift in Sources */,
 				8E43311D24F8698E003E17D6 /* Oracle.swift in Sources */,
 				8E83700D235A29CE00BD318B /* AppDelegate.swift in Sources */,
 				8E43311524F48143003E17D6 /* Git.swift in Sources */,
@@ -1150,6 +1154,7 @@
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1204,6 +1209,7 @@
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

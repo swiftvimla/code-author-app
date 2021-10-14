@@ -12,6 +12,6 @@ struct UserDefaults {
     static let terminalURL: URL = URL(fileURLWithPath: "/Applications/iTerm.app")
     static let editorURL: URL = URL(fileURLWithPath: "/Applications/Visual Studio Code.app")
     static let gitURL: URL = URL(fileURLWithPath: "/usr/bin/git")
-    static let vimlaURL: URL = URL(fileURLWithPath: "/Users/jonatan/vimla/r")
+    static let vimlaURL: URL = URL(fileURLWithPath: "/Users/tahnikmuskyasian/vimla/r")
     static let model = Model()
 }

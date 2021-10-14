@@ -54,7 +54,9 @@ struct SearchProjects: View {
   
   var body: some View {
     VStack {
+//      TODO: When macOS 12 launches, we'll get rid of AutofocusTextField and use .focused instead!
       AutofocusTextField(text: self.$searchText)
+//      TextField("Search for a project", text: self.$searchText)
         .font(.largeTitle.weight(.heavy))
         .overlay(QuitButton(close: { self.close() }).padding(), alignment: Alignment(horizontal: .trailing, vertical: .center))
         .padding()
